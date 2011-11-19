@@ -1,6 +1,6 @@
 === Masdetalles ShareBig ===
 Contributors: LaClave
-Tags: masdetalles, mas, detalles, sharing, share, sharethis, bookmarking, social, compartir, social bookmarking, social bookmarks, bookmark, bookmarks, save, Post, posts, page, pages, images, image, admin, statistics, stats, links, plugin, widget, email, e-mail, seo, button, delicious, google buzz, buzz, google, digg, reddit, facebook, facebook like, like, myspace, twitter, tweet, +1, plus 1, google plus one, plus one, messenger, stumbleupon, technorati, addthis, sexybookmarks, sociable, sharedaddy, icon, icons, wpmu, addtoany
+Tags: masdetalles, mas, detalles, masdetalles.do, republica dominicana, dominicana, santo domingo, dominicano, laclave, compartir, enlaces, enlace, tienda virtual, pagina web, trafico, recomendar, publicar, santiago, rd, rep dom
 Requires at least: 2.0.2
 Tested up to: 3.1
 Stable tag: 1.0
